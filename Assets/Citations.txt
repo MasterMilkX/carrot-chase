@@ -1,2 +1,4 @@
 Hedge Texture: https://blender.stackexchange.com/questions/26187/dragging-and-dropping-a-texture
 Dirt Texture: https://www.textures.com/browse/grass/238
+Carrot: https://www.flaticon.com/free-icons/carrot" Carrot icons created by Freepik - Flaticon
+Fence: <a href="https://www.flaticon.com/free-icons/fence" title="fence icons">Fence icons created by Freepik - Flaticon</a>
