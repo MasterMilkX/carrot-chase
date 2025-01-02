@@ -5,6 +5,7 @@ using UnityEngine;
 public class Fence : MonoBehaviour
 {
     public void DisableGate(){
+        //Debug.Log("BOOM!");
         Destroy(gameObject);
     }
 }
